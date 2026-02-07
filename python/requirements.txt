@@ -17,3 +17,4 @@ web3==5.31.0
 multicall==0.7.7
 
 # run pip install --upgrade websockets after completion
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
